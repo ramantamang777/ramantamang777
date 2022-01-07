@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on webdevlopment
 - 📫 How to reach me ramantamang392@gmail.com
 
---- Student at RR.Institute of technology---
+--- Student at RR.Institute of technology--- 
 Just started contributing on small projects, currently working on bootstrap framework and learning javascript.
 <!---
 ramantamang777/ramantamang777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
