@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramantamang777
 - 👀 I’m interested in Webdevelopent
 - 🌱 I’m currently learning DSA w/h JAVA
-- 💞️ I’m looking to collaborate on webdevlopment
+- 💞️ I’m looking to collaborate on webdev
 - 📫 How to reach me ramantamang392@gmail.com
 
 --- Student at RR.Institute of technology--- 
