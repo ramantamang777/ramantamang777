@@ -5,7 +5,7 @@
 - 📫 How to reach me ramantamang392@gmail.com
 
 --- Student at RR.Institute of technology--- 
-Just started contributing on small projects, currently working on bootstrap framework and javascript.
+Just started contributing on small projects, currently working on javascript, node.js, express and Bootstrap as framework.
 <!---
 ramantamang777/ramantamang777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
